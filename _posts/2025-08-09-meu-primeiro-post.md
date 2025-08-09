@@ -10,7 +10,7 @@ Estou testando isso!
 
 Veja esse código:
 
-```
+```bash
 # Agora você pode usar:
 bundle exec jekyll post "Meu primeiro post"
 bundle exec jekyll draft "Rascunho"
